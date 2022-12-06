@@ -1,0 +1,14 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\x64\Debug\PrimeiraApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\x64\Debug\PrimeiraApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\x64\Debug\PrimeiraApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.Form1.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.frmCalcula.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.frmComponentes.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.frmLogin.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.frmPrimeiroPrograma.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\x64\Debug\PrimeiraApp.csproj.AssemblyReference.cache
